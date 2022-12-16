@@ -1,0 +1,51 @@
+body{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /*background-color: #4158D0;*/
+  /*background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);*/
+  background-color: #FA8BFF;
+  background-image: linear-gradient(45deg, #FA8BFF 0%, #2BD2FF 52%, #2BFF88 90%);
+
+}
+
+.App{
+  width: 700px;
+  height: 643px;
+  background: #fff;
+  border-radius: 5px;
+}
+
+.product {
+  width: 700px;
+  height: 200px;
+  border-bottom: 1px solid gray;
+}
+.imgs{
+  width: 80px;
+  height: 80px;
+  margin-left: 600px;
+  transition: .6s;
+}
+
+.imgs:hover {
+  transform: scale(1.9) rotate(360deg);
+  cursor: pointer;
+}
+
+.color1{
+  font-size: 25px;
+  font-family: sans-serif;
+  color: red;
+}
+.color2{
+  font-size: 25px;
+  font-family: sans-serif;
+  color: blue;
+}
+.color3{
+  font-size: 25px;
+  font-family: sans-serif;
+  color: green;
+}
