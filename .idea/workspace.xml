@@ -1,8 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="97dc1ca8-a1b3-4f52-85f0-302334e68ec1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/DZ3_Akjol_19-03/src/components/components_css/nav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DZ3_Akjol_19-03/src/components/components_css/product.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DZ3_Akjol_19-03/src/components/nav.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ2_Akjol_19-03/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/DZ2_Akjol_19-03/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ2_Akjol_19-03/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/DZ2_Akjol_19-03/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ3_Akjol_19-03" beforeDir="false" afterPath="$PROJECT_DIR$/DZ3_Akjol_19-03" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ3_Akjol_19-03/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/DZ3_Akjol_19-03/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ3_Akjol_19-03/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/DZ3_Akjol_19-03/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ3_Akjol_19-03/src/components/product.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/DZ3_Akjol_19-03/src/components/product.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ3_Akjol_19-03/src/components/products.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/DZ3_Akjol_19-03/src/components/products.jsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2J0DBvwV5Se7t6fNrjU8MMI5PCq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Nitro/Desktop/GeekTech/month_4/month_4_DZ",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97dc1ca8-a1b3-4f52-85f0-302334e68ec1" name="Changes" comment="" />
+      <created>1671205974881</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671205974881</updated>
+      <workItem from="1671205976679" duration="309000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
