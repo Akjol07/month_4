@@ -4,6 +4,9 @@ import {useState} from "react";
 
 function Form() {
     const [checkbox, setCheckbox] = useState(false);
+    const click = () => {
+        alert('Works')
+    }
     return (
         <>
             <div className="container">
@@ -40,7 +43,7 @@ function Form() {
                         value={checkbox}
                     />
                 </div>
-                <button className="btn" disabled={!checkbox} onClick={e => e.preventDefault()}>Send</button>
+                <button className="btn" disabled={!checkbox} onClick={click}>Send</button>
             </form>
             </div>
         </>
