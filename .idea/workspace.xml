@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97dc1ca8-a1b3-4f52-85f0-302334e68ec1" name="Changes" comment="DZ3" />
+    <list default="true" id="97dc1ca8-a1b3-4f52-85f0-302334e68ec1" name="Changes" comment="DZ3">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DZ4_Akjol_19-03/src/components/form/form.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DZ4_Akjol_19-03/src/components/form/form.modules.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/month_4_DZ.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ3_Akjoll_19-03/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/DZ3_Akjoll_19-03/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ3_Akjoll_19-03/src/components/components_css/nav.css" beforeDir="false" afterPath="$PROJECT_DIR$/DZ3_Akjoll_19-03/src/components/components_css/nav.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ3_Akjoll_19-03/src/components/components_css/product.css" beforeDir="false" afterPath="$PROJECT_DIR$/DZ3_Akjoll_19-03/src/components/components_css/product.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DZ3_Akjoll_19-03/src/components/products.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/DZ3_Akjoll_19-03/src/components/products.jsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,20 +35,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Nitro/Desktop/GeekTech/month_4/month_4_DZ",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Nitro/Desktop/GeekTech/month_4/month_4_DZ&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Nitro\Desktop\GeekTech\month_4\month_4_DZ" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -46,6 +63,9 @@
       <option name="presentableId" value="Default" />
       <updated>1671205974881</updated>
       <workItem from="1671205976679" duration="1084000" />
+      <workItem from="1671207092464" duration="539000" />
+      <workItem from="1671210854133" duration="2000" />
+      <workItem from="1671439140859" duration="338000" />
     </task>
     <task id="LOCAL-00001" summary="DZ3">
       <created>1671206531731</created>

@@ -1,0 +1,77 @@
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 600px;
+    height: 600px;
+    background: gray;
+    margin: auto;
+}
+
+.container form {
+    width: 295px;
+    height: 435px;
+}
+
+.name {
+    width: 300px;
+    height: 60px;
+    margin-bottom: 25px;
+}
+.name input {
+    width: 280px;
+    height: 25px;
+    border-radius: 5px;
+    padding: 5px;
+    border: none;
+}
+.email {
+    width: 300px;
+    height: 60px;
+    margin-bottom: 25px;
+}
+.email input {
+    width: 280px;
+    height: 25px;
+    border-radius: 5px;
+    padding: 5px;
+    border: none;
+}
+.number {
+    width: 300px;
+    height: 60px;
+    margin-bottom: 25px;
+}
+.number input {
+    width: 280px;
+    height: 25px;
+    border-radius: 5px;
+    padding: 5px;
+    border: none;
+}
+.check {
+    width: 183px;
+    margin: auto;
+}
+.btn {
+    width: 90px;
+    margin: 20px auto 0 90px;
+    border-radius: 8px;
+    border: 1px solid transparent;
+    padding: 0.6em 1.2em;
+    font-size: 1em;
+    font-weight: 500;
+    color: white;
+    font-family: inherit;
+    background-color: #1a1a1a;
+    cursor: pointer;
+    transition: border-color 0.25s;
+}
+.btn:hover {
+    border-color: #646cff;
+}
+
+.btn:disabled{
+    cursor: not-allowed;
+}

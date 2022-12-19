@@ -10,7 +10,7 @@ const Products = () => {
     ]
     return (
         <>
-            {products.map(item=><Product key={item.name} product={item}/>)}
+            {products.map(item => <Product key={item.name} product={item}/>)}
         </>
 
     );

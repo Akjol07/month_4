@@ -12,9 +12,10 @@ body{
 .App{
   display: flex;
   justify-content: space-between;
+  align-content: space-between;
   flex-wrap: wrap;
   width: 1120px;
-  height: 620px;
+  height: 630px;
   border-radius: 5px;
   margin: 50px auto 0;
 }
